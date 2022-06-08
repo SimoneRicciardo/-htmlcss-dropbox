@@ -127,11 +127,43 @@
 }
 
 .fundpartner-section{
-    margin-top: 50px;
+    margin: 50px 0;
     display: flex;
     align-items: center;
 }
 
 .img-partner{
     height: 450px;
+}
+
+.container-cards{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.cards{
+    width: calc(100% / 3 - 10px);
+    margin:30px 0 100px 0px;
+}
+
+.cards img{
+    height: 200px;
+}
+
+.container-square{
+    display: flex;
+}
+
+.square{
+    height: 200px;
+    width: 20vw;
+    background-color: red;
+    border: solid 1px black;
+}
+
+.square-big{
+    height: 400px;
+    width: 60vw;
+    background-color: blue;
 }
