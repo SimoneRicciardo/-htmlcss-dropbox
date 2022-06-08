@@ -64,15 +64,74 @@
 }
 
 .arrow-down{
-    margin-top: 130px;
+    margin-top: 110px;
 }
 
 .img-hero{
-    height: 400px;
+    height: 420px;
 }
 
-.ciao{
+.hero-main{
+    display: flex;
+}
+/*fine hero*/
+/*inizio main*/
+.container-main{
+    max-width: 70vw;
+    margin: 0 auto;
+    height: 100%;
+    margin-top: 100px;
+    background-color: blueviolet;
+}
+
+.checktext{
+    margin-right: 30px;
+}
+
+.checkbox{
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+    border: solid blue 4px;
+    margin-top: 35px;
+    display: inline-block;
+}
+
+.column{
+    margin-top: 35px;
+    height: 550px;
+    width:calc(100% / 3 - 30px);
+    border: solid 1px black;
+}
+
+.column-container{
     display: flex;
     justify-content: space-between;
 }
-/*fine hero*/
+
+.row-enterprise{
+    margin-top: 35px;
+    width: 100%;
+    height: 150px;
+    border: solid 1px black;
+}
+
+.descriprion-enterprise{
+    flex-direction: column;
+}
+
+.enterprise-main{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+}
+
+.fundpartner-section{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.img-partner{
+    height: 450px;
+}
