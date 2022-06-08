@@ -153,11 +153,16 @@
 
 .container-square{
     display: flex;
+    justify-content: center;
+}
+
+.bho{
+    display: flex;
 }
 
 .square{
     height: 200px;
-    width: 20vw;
+    width: 10vw;
     background-color: red;
     border: solid 1px black;
 }
