@@ -79,7 +79,6 @@
 .container-main{
     height: 100%;
     margin-top: 100px;
-    background-color: blueviolet;/*temp*/
 }
 
 .checktext{
@@ -90,16 +89,16 @@
     height: 15px;
     width: 15px;
     border-radius: 50%;
-    border: solid blue 4px;/*temp*/
+    border: solid rgb(0, 97, 255) 4px;/*temp*/
     margin-top: 35px;
     display: inline-block;
 }
 
 .column{
     margin-top: 35px;
-    height: 550px;
-    width:calc(100% / 3 - 30px);
-    border: solid 1px black;/*temp*/
+    height: 100%;
+    width:calc(100% / 3 - 10px);
+    border: solid 1px rgb(222, 222, 224);
 }
 
 .row-enterprise{

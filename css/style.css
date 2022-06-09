@@ -53,3 +53,30 @@
 }
 
 /*main*/
+.container-main h1{
+    font-size: 30px;
+}
+
+.selection span{
+    font-size: 14px;
+}
+
+.title-column{
+    text-align: center;
+    font-size: 13px;
+    padding: 10px 0;
+    border-bottom: solid 1px rgb(222, 222, 224);
+}
+
+.title-column .icon{
+    padding: 0 4px;
+}
+
+.content-column{
+    font-size: 15px;
+    padding: 15px;
+}
+
+.price-column, .content-plan, .content-plus{
+    padding: 10px 0;
+}
