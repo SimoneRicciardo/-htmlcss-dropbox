@@ -1,0 +1,55 @@
+/*generic rule*/
+.btn-blue{
+    background-color: rgb(0, 97, 255);
+    border: none;
+    color: white;
+}
+
+
+/*header link*/
+.container-link li a{
+    font-size: 12px;
+    color: black;
+}
+
+.btn-start{
+    padding: 5px 10px 5px 10px;
+}
+
+
+/*hero*/
+.title-hero{
+    padding-top: 45px;
+    margin-bottom: 30px;
+    font-size: 25px;
+}
+
+.title-hero h1{
+    font-weight: 900;
+}
+
+.img-hero{
+    height: 320px;
+}
+
+.info-hero li{
+    font-size: 13px;
+}
+
+.info-hero li a{
+    text-decoration: none;
+}
+
+.start-trial{
+    padding: 10px;
+}
+
+.arrow-down{
+    margin-top: 50px;
+}
+
+.fa-arrow-down{
+    font-size: 35px;
+}
+
+/*main*/
