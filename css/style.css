@@ -5,6 +5,9 @@
     color: white;
 }
 
+.btn-big{
+    padding: 10px;
+}
 
 /*header link*/
 .container-link li a{
@@ -41,7 +44,7 @@
 }
 
 .start-trial{
-    padding: 10px;
+    margin: 0;
 }
 
 .arrow-down{
@@ -68,15 +71,44 @@
     border-bottom: solid 1px rgb(222, 222, 224);
 }
 
-.title-column .icon{
-    padding: 0 4px;
+.icon{
+    padding: 0 5px;
 }
 
 .content-column{
-    font-size: 15px;
+    font-size: 14px;
     padding: 15px;
 }
 
 .price-column, .content-plan, .content-plus{
     padding: 10px 0;
+}
+
+.price-column p:first-child{
+    font-weight: bold;
+}
+
+.price-column p:last-child{
+    color: rgb(177, 177, 176);
+}
+
+.price-column p, .content-plan p, .content-plus p{
+    padding: 10px 0;
+}
+
+.btn-column{
+    margin: 30px 0;
+    width: 100%;
+}
+
+.column p a{
+    margin-left: 3px;
+}
+
+.column p a, .column .fa-check{
+    color: rgb(0, 95, 255);
+}
+
+.hr-small{
+    margin: 20px 160px 20px 0px;
 }
