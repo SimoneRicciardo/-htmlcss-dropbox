@@ -143,6 +143,7 @@ a{
     background-color:rgb(245, 245, 245);
     font-size: 12px;
     padding: 45px;
+    overflow: overlay;
 }
 
 .customers-show img{
