@@ -189,3 +189,26 @@
     background-color: rgb(255, 216, 48);
     border: solid 10px rgb(255, 216, 48);
 }
+
+.rectangle-info h1{
+    color: rgb(95, 2, 37);
+    font-size: 28px;
+}
+
+.faq h2{
+    margin-bottom: 40px;
+    font-size: 30px;
+}
+
+.fa-angle-up, .reply{
+    display: none;
+}
+
+.question{
+    display: inline-block;
+}
+
+.question-section p{
+    font-weight: bold;
+    margin: 20px 140px 20px 0;
+}

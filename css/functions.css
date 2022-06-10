@@ -29,3 +29,15 @@ button:hover{
  .square-small:hover{
      border: solid 10px rgba(255, 255, 255, 0.4);
  }
+
+ .question-section:hover .fa-angle-down{
+    display: none;
+ }
+
+ .question-section:hover .fa-angle-up{
+     display: inline-block;
+ }
+
+ .question-section:hover .reply{
+     display: inline-block;
+ }
