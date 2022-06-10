@@ -48,11 +48,12 @@
 }
 
 .arrow-down{
-    margin-top: 50px;
+    padding-top: 20px;
 }
 
 .fa-arrow-down{
     font-size: 35px;
+    color: black;
 }
 
 /*main*/
@@ -76,7 +77,7 @@
 }
 
 .content-column{
-    font-size: 14px;
+    font-size: 13px;
     padding: 15px;
 }
 
