@@ -1,4 +1,7 @@
 /*generic rule*/
+h{
+    scroll-behavior: smooth;  
+  }
 
 button:hover{
     opacity: 0.5;
@@ -22,3 +25,5 @@ button:hover{
     75%  { top:13px;}
     100% { top:0px;}
   }
+
+ 
