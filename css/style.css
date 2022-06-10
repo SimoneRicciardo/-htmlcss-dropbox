@@ -8,6 +8,10 @@
     padding: 10px;
 }
 
+a{
+    text-decoration: none;
+}
+
 /*header link*/
 .container-link li a{
     font-size: 12px;
@@ -211,4 +215,25 @@
 .question-section p{
     font-weight: bold;
     margin: 20px 140px 20px 0;
+}
+
+/*fine main*/
+
+/*inizio footer*/
+
+.title-list{
+    margin-bottom: 10px;
+}
+
+.column-footer ul li{
+    padding: 10px 0;
+    font-size: 15px;
+}
+
+.column-footer ul li a{
+    color: white;
+}
+
+.hr-small-footer{
+    margin-right: 780px;;
 }

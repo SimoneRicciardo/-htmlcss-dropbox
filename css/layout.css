@@ -183,13 +183,16 @@
     margin-bottom: 60px;   
 }
 
+/*fine main*/
+
+
+/*inizio footer*/
 footer{
-    background-color: rgb(184, 18, 18);
+    background-color: black;
 }
 
 .footer-link{
     height: 100%;
-    border: solid 1px white;
 }
 
 .column-footer ul li{
@@ -202,6 +205,10 @@ footer{
 }
 
 .language{
-    margin-bottom: 50px;
-    border-top: solid 1px white;
+    padding: 25px 0px;
+    color: white;
+}
+
+.fa-globe-americas, .fa-caret-up{
+    padding: 0 5px;
 }
