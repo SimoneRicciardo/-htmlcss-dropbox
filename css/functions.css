@@ -26,4 +26,6 @@ button:hover{
     100% { top:0px;}
   }
 
- 
+ .square-small:hover{
+     border: solid 10px rgba(255, 255, 255, 0.4);
+ }

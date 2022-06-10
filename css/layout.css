@@ -150,20 +150,22 @@
 }
 
 .container-square{
-    margin-top: 50px;
+    margin-top: 80px;
 }
 
 .square{
     width: calc(100% / 3);
     height: calc(100vw / 3);
-    background-color: blue;/*temp*/
-    border: solid 1px black;/*temp*/
 }
 
 .square-small{
-    border: solid 1px black; /*temp*/
     width: 50%;
     height: 50%;
+    justify-content: center; 
+}
+
+.square-small img{
+    width: 40%;
 }
 
 .rectangle{

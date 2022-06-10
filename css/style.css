@@ -110,7 +110,7 @@
 }
 
 .hr-small{
-    margin: 20px 160px 20px 0px;
+    margin: 20px 200px 20px 0px;
 }
 
 .description-enterprise p{
@@ -133,4 +133,59 @@
 
 #link-customers{
     color: rgb(0, 95, 255);
+}
+
+.customers-show{
+    background-color:rgb(245, 245, 245);
+    font-size: 12px;
+    padding: 45px;
+}
+
+.customers-show img{
+    height: 15%;
+    margin-bottom: 20px;
+}
+
+.customers-show p{
+    margin: 20px 0;
+}
+
+.customers-1{
+    background-color: rgb(162, 211, 155);
+    border: solid 10px rgb(162, 211, 155);
+}
+
+.customers-2{
+    background-color: rgb(97, 8, 43);
+    border: solid 10px rgb(97, 8, 43);
+}
+
+.customers-3{
+    background-color: rgb(0, 147, 206);
+    border: solid 10px rgb(0, 147, 206);
+}
+
+.customers-4{
+    background-color: rgb(255, 28, 28);
+    border: solid 10px rgb(255, 28, 28);
+}
+
+.customers-5{
+    background-color: rgb(213, 0, 31);
+    border: solid 10px rgb(213, 0, 31);
+}
+
+.customers-6{
+    background-color: rgb(180, 208, 231);
+    border: solid 10px rgb(180, 208, 231);
+}
+
+.customers-7{
+    background-color: rgb(13, 36, 129);
+    border: solid 10px rgb(13, 36, 129);
+}
+
+.customers-8{
+    background-color: rgb(255, 216, 48);
+    border: solid 10px rgb(255, 216, 48);
 }
